@@ -7,7 +7,7 @@
   * [Directory Tree](#directory-tree)	
 
 ## Demo	
-Link: [https://flight-fare-prediction-tvarma.herokuapp.com/](https://flight-fare-prediction-tvarma.herokuapp.com/)	
+Link:
 
 [![](https://i.imgur.com/WcxYuWG.png)](https://flight-fare-prediction-tvarma.herokuapp.com/)	
 
